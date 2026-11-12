@@ -102,6 +102,7 @@ rm old_mission.txt
 ls -l
 # 출력 결과 (실습 후 입력)
 ```
+<img width="980" height="237" alt="image" src="https://github.com/user-attachments/assets/1f771f85-4926-4272-b757-a022af38443d" />
 
 ---
 
