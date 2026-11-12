@@ -218,6 +218,8 @@ echo "I am inside the container"
 exit
 # 출력 결과 (실습 후 입력)
 ```
+<img width="1441" height="691" alt="image" src="https://github.com/user-attachments/assets/6e53f717-7144-4f31-b521-3d6156d64ac7" />
+
 
 > **attach vs exec 차이 정리**  
 > - `docker attach`: 실행 중인 컨테이너의 메인 프로세스에 붙음. exit 시 컨테이너가 종료됨  
