@@ -69,6 +69,10 @@ cd workspace
 pwd
 # 출력 결과 (실습 후 입력)
 ```
+<img width="697" height="56" alt="image" src="https://github.com/user-attachments/assets/1eb43a10-bfa8-433b-94e0-3a73ee169a3f" />
+
+<img width="680" height="117" alt="image" src="https://github.com/user-attachments/assets/a91ddf94-175b-48bc-a477-c6c7e9254ed8" />
+
 
 ### 4-3. 파일 생성, 내용 확인, 복사, 이동, 삭제
 
