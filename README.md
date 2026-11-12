@@ -180,6 +180,7 @@ chmod 755 workspace
 ls -ld workspace
 # 출력 결과 (실습 후 입력)
 ```
+<img width="837" height="212" alt="image" src="https://github.com/user-attachments/assets/afb27804-a07e-41cc-a5a5-f779b290d365" />
 
 ---
 
