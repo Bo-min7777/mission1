@@ -220,6 +220,7 @@ exit
 ```
 <img width="1441" height="691" alt="image" src="https://github.com/user-attachments/assets/6e53f717-7144-4f31-b521-3d6156d64ac7" />
 
+<img width="1145" height="602" alt="image" src="https://github.com/user-attachments/assets/9f8599a2-d147-4367-a77f-37a9897a932e" />
 
 > **attach vs exec 차이 정리**  
 > - `docker attach`: 실행 중인 컨테이너의 메인 프로세스에 붙음. exit 시 컨테이너가 종료됨  
