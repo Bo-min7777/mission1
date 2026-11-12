@@ -195,6 +195,8 @@ docker --version
 docker info
 # 출력 결과 (실습 후 입력)
 ```
+<img width="1461" height="392" alt="image" src="https://github.com/user-attachments/assets/4fc57d8f-51e3-4f89-88f4-859d4c7ec48f" />
+
 
 ### 7-2. hello-world 컨테이너 실행
 
