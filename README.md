@@ -87,9 +87,11 @@ cat mission.txt
 cp mission.txt backup.txt
 ls -l
 # 출력 결과
+```
+
 <img width="1046" height="207" alt="image" src="https://github.com/user-attachments/assets/ed5a3631-3cce-48ce-ba12-0b3fa9a42bc4" />
 
-
+```bash
 # 파일 이름 변경
 mv backup.txt old_mission.txt
 ls -l
