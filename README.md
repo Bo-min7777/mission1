@@ -57,6 +57,8 @@ pwd
 ls -al
 # 출력 결과 (실습 후 입력)
 ```
+<img width="1335" height="347" alt="image" src="https://github.com/user-attachments/assets/5faa1b66-a6f9-4879-a569-3b0ef50176cc" />
+
 
 ### 4-2. 디렉토리 생성 및 이동
 
