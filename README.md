@@ -142,6 +142,8 @@ r = 읽기(4), w = 쓰기(2), x = 실행(1)
 755 = rwxr-xr-x (소유자: 7=rwx, 그룹: 5=r-x, 기타: 5=r-x)
 644 = rw-r--r-- (소유자: 6=rw-, 그룹: 4=r--, 기타: 4=r--)
 ```
+<img width="791" height="247" alt="image" src="https://github.com/user-attachments/assets/3901a097-4c77-4dd2-bc6a-9762226289f9" />
+
 
 ### 6-2. 파일 권한 변경 실습
 
