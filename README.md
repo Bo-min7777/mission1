@@ -204,6 +204,7 @@ docker info
 docker run hello-world
 # 출력 결과 (실습 후 입력)
 ```
+<img width="1457" height="205" alt="image" src="https://github.com/user-attachments/assets/01d329c6-c762-4706-a874-1aebe636d6a7" />
 
 ### 7-3. ubuntu 컨테이너 실행 및 내부 진입
 
