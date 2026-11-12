@@ -123,6 +123,7 @@ cd ..
 # 현재 폴더(.) 기준 파일 확인
 cat ./mission.txt
 ```
+<img width="912" height="157" alt="image" src="https://github.com/user-attachments/assets/6592464a-f4c3-426a-a51a-4e1abd31ce12" />
 
 ---
 
