@@ -251,6 +251,7 @@ docker logs [컨테이너명 또는 ID]
 docker stats --no-stream
 # 출력 결과 (실습 후 입력)
 ```
+<img width="892" height="346" alt="image" src="https://github.com/user-attachments/assets/bb1234d3-d52e-4952-baac-a08d552d4b9b" />
 
 ---
 
