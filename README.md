@@ -51,11 +51,10 @@
 ```bash
 # 현재 위치 확인
 pwd
-# 출력 결과 (실습 후 입력)
 
 # 숨김 파일 포함 목록 확인
 ls -al
-# 출력 결과 (실습 후 입력)
+# 출력 결과
 ```
 <img width="1335" height="347" alt="image" src="https://github.com/user-attachments/assets/5faa1b66-a6f9-4879-a569-3b0ef50176cc" />
 
@@ -67,7 +66,7 @@ ls -al
 mkdir workspace
 cd workspace
 pwd
-# 출력 결과 (실습 후 입력)
+# 출력 결과
 ```
 <img width="697" height="56" alt="image" src="https://github.com/user-attachments/assets/1eb43a10-bfa8-433b-94e0-3a73ee169a3f" />
 
@@ -83,12 +82,13 @@ touch mission.txt
 # 파일 내용 작성 및 확인
 echo "Hello Docker" > mission.txt
 cat mission.txt
-# 출력 결과 (실습 후 입력)
 
 # 파일 복사
 cp mission.txt backup.txt
 ls -l
-# 출력 결과 (실습 후 입력)
+# 출력 결과
+<img width="1046" height="207" alt="image" src="https://github.com/user-attachments/assets/ed5a3631-3cce-48ce-ba12-0b3fa9a42bc4" />
+
 
 # 파일 이름 변경
 mv backup.txt old_mission.txt
